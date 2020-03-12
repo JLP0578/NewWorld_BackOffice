@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/PNG">
+        <file>Images/PNG/Add.png</file>
+        <file>Images/PNG/All.png</file>
+        <file>Images/PNG/Delete.png</file>
+        <file>Images/PNG/Edit.png</file>
+        <file>Images/PNG/Login.png</file>
+        <file>Images/PNG/Nok.png</file>
+        <file>Images/PNG/Ok.png</file>
+        <file>Images/PNG/Password.png</file>
+        <file>Images/PNG/Picture.png</file>
+        <file>Images/PNG/Refresh.png</file>
+        <file>Images/PNG/Valid.png</file>
+        <file>Images/PNG/World.png</file>
+        <file>Images/PNG/In.png</file>
+        <file>Images/PNG/Out.png</file>
+    </qresource>
+    <qresource prefix="/SVG">
+        <file>Images/SVG/Add.svg</file>
+        <file>Images/SVG/All.svg</file>
+        <file>Images/SVG/Delete.svg</file>
+        <file>Images/SVG/Edit.svg</file>
+        <file>Images/SVG/Login.svg</file>
+        <file>Images/SVG/Nok.svg</file>
+        <file>Images/SVG/Ok.svg</file>
+        <file>Images/SVG/Password.svg</file>
+        <file>Images/SVG/Picture.svg</file>
+        <file>Images/SVG/Refresh.svg</file>
+        <file>Images/SVG/Valid.svg</file>
+        <file>Images/SVG/World.svg</file>
+        <file>Images/SVG/In.svg</file>
+        <file>Images/SVG/Out.svg</file>
+    </qresource>
+</RCC>
